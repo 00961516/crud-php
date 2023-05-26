@@ -43,7 +43,7 @@
 
 				      	<a href="edit-makul.php?id=<?php echo $row['id_makul'] ?>" class="btn btn-primary btn-sm">EDIT</a>
 
-				      	<a href="hapus-dosen.php?id=<?php echo $row['id_makul'] ?>" class="btn btn-danger btn-sm">HAPUS</a>
+				      	<a href="hapus-makul.php?id=<?php echo $row['id_makul'] ?>" class="btn btn-danger btn-sm">HAPUS</a>
 				      </td>
 				    </tr>
 
